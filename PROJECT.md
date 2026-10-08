@@ -6,4 +6,4 @@ This is a sample project used for Git practice.
 
 Initial project setup completed.
 
-Created another branch and working on the feature/project.md file.
+Created=====feature/project.md file.
